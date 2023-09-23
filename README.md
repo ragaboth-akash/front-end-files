@@ -1,2 +1,6 @@
-# html-tags
-semi-Coverd html tags 
+->This a file to store html-tags
+->viewers may know what i did with code
+->commands are used in this code for users convenience 
+->any doubts dont in this code / any mistaks may you found Dont hesitate to tell me
+->my email : <a href="akashakilan1@gmail.com"> Tell What Your Doubts in This Eamil
+---->Thank You !!<----
